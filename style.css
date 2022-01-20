@@ -1,0 +1,52 @@
+
+/*--------------------- fonts -------------------- */
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Poppins:wght@500;600&display=swap');
+
+header{
+    margin-top: 80px;
+    margin-left: 120px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+/*---------------------------- influencer-part ------------------------*/
+
+
+.influencer{
+    display: flex;
+}
+.influencer-detail{
+    width: 582px;
+    height: 270px;
+    border-radius: 41px;
+    margin-top: 112px;
+    margin-left: 117px;
+}
+button{
+    background-color:#E02C6D;
+    color: whitesmoke;
+    border: cornflowerblue;
+    border-radius: 41px;
+    width: 196px;
+    height: 44px;
+}
+.influencer-image{
+    width: 480px;
+    height: 414px;
+    margin-top: 55px;
+    margin-left: 138px;
+    border-radius: 41px;
+    padding: 40px;    
+}
+.influencer-image img{
+    width: 440px;
+    height: 414px;
+}
+#bg-white{
+    background-image:url(influencer-gear-main/images/Circle\ design.svg);
+    background-repeat: no-repeat;
+}
